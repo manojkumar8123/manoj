@@ -1,2 +1,2 @@
 # manojgit
-contains information about zehara
+contains information about manoj github practise

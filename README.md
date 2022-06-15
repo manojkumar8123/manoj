@@ -1,3 +1,3 @@
 # manojgit
 contains information about manoj github practise
-xyz xyyz
+xyz xyz XYZ

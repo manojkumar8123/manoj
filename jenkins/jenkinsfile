@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Run Tests') {
             parallel {
-                stage('Node1') {
+                stage('NODE1') {
                     agent {
                         label "specifice-label" // here node is selected
                     }
